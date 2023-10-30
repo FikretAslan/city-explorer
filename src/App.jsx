@@ -16,6 +16,7 @@ function App() {
     event.preventDefault();
 
     const API = `https://eu1.locationiq.com/v1/search?q=${search}&key=${API_KEY}&format=json`;
+    console.log(API);
 
     const res = await axios.get(API);
 

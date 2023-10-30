@@ -1,0 +1,17 @@
+* {
+  background-color: brown;
+  margin: auto;
+}
+
+h1 {
+  color: white;
+  padding: 2rem;
+}
+
+.form {
+  padding: 10px;
+}
+
+.button {
+  padding-left: 2rem;
+}

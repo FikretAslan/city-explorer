@@ -8,10 +8,17 @@ h1 {
   padding: 2rem;
 }
 
+h2 {
+  color: white;
+}
+
 .form {
   padding: 10px;
 }
 
 .button {
-  padding-left: 2rem;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }

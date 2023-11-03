@@ -1,6 +1,8 @@
 * {
-  background-color: brown;
   margin: auto;
+}
+body {
+  background-image: url("./assets/star-background.jpg");
 }
 
 h1 {
@@ -16,9 +18,17 @@ h2 {
   padding: 10px;
 }
 
-.button {
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
+button {
+  padding: 2rem;
+  margin-top: 1rem;
+}
+
+input {
+  width: 75%;
+}
+
+img {
+  border-radius: 50%;
+  max-width: 400px;
+  max-height: 500px;
 }
